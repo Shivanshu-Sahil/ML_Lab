@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/    
+dataset/    
+*.pyc
+.env
+.vscode/
+.DS_Store
+*.log
+*.tmp
+*.bak
+.pytest_cache/  
