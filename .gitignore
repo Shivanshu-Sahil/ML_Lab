@@ -9,3 +9,7 @@ dataset/
 *.tmp
 *.bak
 .pytest_cache/  
+sample_data.csv
+your_file.csv
+read.py
+Untitled.ipynb
